@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saadams
 - 👀 I’m interested in pretty much anything that has to do with programming.
-- 🌱 I’m currently learning Python and Go both to be used in pentesting and more cybersecurity practices.
+- 🌱 I’m currently learning how to build pentesting tools and programs in python and GO. 
 - 💞️ I’m looking to collaborate on any desktop application.
 - 📫 How to reach me Devsadams26@gmail.com
 
